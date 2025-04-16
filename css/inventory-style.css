@@ -291,6 +291,11 @@ a{
         align-items: center;
         position: fixed;
         top: 0rem;
+        height: 4rem;
+    }
+
+    header h1{
+        font-size: 2rem;
     }
 
     main{
@@ -303,5 +308,14 @@ a{
 
     nav br{
         display: none;
+    }
+
+    nav{
+        height: 4rem;
+
+    }
+
+    nav a{
+        font-size: 1.5rem;
     }
 }
